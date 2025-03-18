@@ -25,23 +25,53 @@ ResumeMaster is an AI-powered application designed to parse and analyze resumes 
 
 ## Screenshots
 
-*Main Screen:*
-![Main Screen](screenshots/main_screen.png)
+### 1. Admin:
+- **Main Screen:**
+![Main Screen](screenshots/admin/1-main-screen.png)
 
-*Resume Analysis:*
-![Resume Analysis](screenshots/resume_analysis.png)
+- **User Data:**
+![User Data](screenshots/admin/2-user-data.png)
 
-*Skill Recommendation:*
-![Skill Recommendation](screenshots/skill_recommendation.png)
+- **User DataCSV:**
+![User DataCSV](screenshots/admin/3-user-datacsv.png)
 
-*Course Recommendation:*
-![Course Recommendation](screenshots/course_recommendation.png)
+- **Feed Data:**
+![Feed Data](screenshots/admin/4-feed-data.png)
 
-*Tips and Overall Score:*
-![Tips and Overall Score](screenshots/tips_overall_score.png)
+- **Pie Experienced Level:**
+![Pie Experienced Level](screenshots/admin/5-pieexp.png)
 
-*Video Recommendation:*
-![Video Recommendation](screenshots/video_recommendation.png)
+- **Pie Resume Score:**
+![Pie Resume Score](screenshots/admin/6-piescre.jpg)
+
+- **Pie Location:**
+![Pie Location](screenshots/admin/7-pielocation.png)
+
+### 2. Feedback:
+- **Form:**
+![Form](screenshots/feedback/1-form.png)
+
+- **Analytics:**
+![Analytics](screenshots/feedback/2-analytics.png)
+
+### 3. User:
+- **Main Screen:**
+![Main Screen](screenshots/user/1-main-screen.png)
+
+- **Analysis:**
+![Analysis](screenshots/user/2-analysis.jpg)
+
+- **Skills Recommendation:**
+![Skills Recommendation](screenshots/user/3-recom.png)
+
+- **Course Recommendation:**
+![Course Recommendation](screenshots/user/4-recom.png)
+
+- **Resume Score:**
+![Resume Score](screenshots/user/5-tipsscore.png)
+
+- **Video Tips:**
+![Video Tips](screenshots/user/6-recom.png)
 
 ## Installation & Setup
 
